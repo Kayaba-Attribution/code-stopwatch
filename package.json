@@ -1,0 +1,43 @@
+{
+  "name": "code-stopwatch",
+  "version": "1.0.0",
+  "description": "Simple, lightweight execution timer with named steps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayaba-Attribution/code-stopwatch.git"
+  },
+  "keywords": [
+    "timer",
+    "performance",
+    "debugging",
+    "profiling",
+    "JavaScript timer library",
+    "Node.js execution timer",
+    "performance tracking tool",
+    "lightweight timer utility",
+    "debugging tools for Node.js",
+    "code profiling library",
+    "execution time measurement",
+    "Node.js performance debugging",
+    "step-based timer",
+    "simple JavaScript timer",
+    "code performance optimization",
+    "measure execution time",
+    "Node.js timer utility",
+    "development tools for performance",
+    "timer with console logs"
+  ],
+  "author": "kayaba-attribution",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kayaba-Attribution/code-stopwatch/issues"
+  },
+  "homepage": "https://github.com/Kayaba-Attribution/code-stopwatch#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
