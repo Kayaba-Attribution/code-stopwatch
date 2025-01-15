@@ -1,6 +1,6 @@
 {
   "name": "code-stopwatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple, lightweight execution timer with named steps",
   "main": "index.js",
   "scripts": {

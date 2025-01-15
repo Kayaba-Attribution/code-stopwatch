@@ -4,6 +4,10 @@ class Timer {
     this.startTime = Date.now();
     this.lastMark = this.startTime;
     this.silent = options.silent || false;
+
+    if (!this.silent) {
+      console.log(`[${this.name}] Timer started`);
+    }
   }
 
   mark(label = "Step") {
